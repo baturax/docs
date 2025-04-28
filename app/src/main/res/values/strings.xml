@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="view_docs_text">View Docs</string>
+    <string name="go_back_text">Go Back</string>
+</resources>
